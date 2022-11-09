@@ -1,6 +1,8 @@
 ![Masterhead](https://2.bp.blogspot.com/-HPvsFc4GN5c/Xl6vbG1u5jI/AAAAAAAAOuo/LBRvLnDFqa4tESl64weBBCF568CTVJTAACLcBGAsYHQ/s1600/Podcast_Android_Hero_4209x1253_25%2525.gif)
 <h1 align="Left">Hi 👋, I'm Shehan Lakshitha</h1>
-<h3 align="left">I'm a passionate Android app developer, Student from Sri Lanka</h3>
+<h3 align="left">I'm a passionate Android app developer, Student from Sri Lanka 🇱🇰
+</h3> 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehan-lakshitha&label=Profile%20views&color=0e75b6&style=flat" alt="shehan-lakshitha" /> </p>
 
