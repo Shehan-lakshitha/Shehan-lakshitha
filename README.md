@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehan-lakshitha" alt="shehan-lakshitha" /></a> </p>
 
-- 👋 Hi, I’m @Shehan-lakshitha
+- 👋 Hi, I’m <a href=https://github.com/Shehan-lakshitha> Shehan Lakshitha </a>
 - 👀 I’m interested in web develoment and AI
 - 👀 I'm also interesting in andriod app development
 - 🌱 I’m currently reading my BSc(Hons) in Information Systems at <a href="https://www.sab.ac.lk">Sabaragamuwa University of Sri Lanka</a>
