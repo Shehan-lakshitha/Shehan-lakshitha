@@ -272,10 +272,10 @@ span {
 }
 
 .js-bar {
-  width: 74%;
+  width: 62%;
 }
 
-.react-bar {
+.android-bar {
   width: 80%;
 }
 
@@ -394,6 +394,7 @@ form textarea {
   margin-bottom: 1.6rem;
   color: var(--text-color)
 }
+
 
 .footer-social a i {
   color: rgb(10, 26, 208);
