@@ -82,8 +82,9 @@ header.shadow {
 .logo span {
   font-size: 1.61rem;
   font-weight: 600;
-  color: crimson;
+  color: rgb(35, 14, 225);
 }
+
 
 .navbar {
   display: flex;
@@ -379,7 +380,7 @@ form textarea {
 }
 
 .contact-button:hover {
-  background: var(--hover);
+  color: black;
 }
 
 .footer {
