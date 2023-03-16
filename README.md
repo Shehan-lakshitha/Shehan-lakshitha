@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehan-lakshitha&label=Profile%20views&color=0e75b6&style=flat" alt="shehan-lakshitha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehan-lakshitha" alt="shehan-lakshitha" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehan-lakshitha"  alt="shehan-lakshitha"/></a> </p>
 
 - 👋 Hi, I’m <a href=https://github.com/Shehan-lakshitha> Shehan Lakshitha </a>
 - 👀 I’m interested in web develoment and AI
