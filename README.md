@@ -9,12 +9,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=shehan-lakshitha&margin-w=15&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehan-lakshitha"  alt="shehan-lakshitha"/></a> </p> -->
 
-💠 👋 Hi, I’m <a href=https://github.com/Shehan-lakshitha> Shehan Lakshitha </a>
-💠 👀 I’m interested in web develoment and AI
-💠 👀 I'm also interesting in andriod app development
-💠 🌱 I’m currently reading my BSc(Hons) in Information Systems at <a href="https://www.sab.ac.lk">Sabaragamuwa University of Sri Lanka</a>
-💠 💞️ I’m looking to collaborate on any android app development projects,web develoment projects and other interesting projects
-💠 📫 You can reach me through my e-mail shehanlaksh@gmail.com
+💠 👋 Hi, I’m <a href=https://github.com/Shehan-lakshitha> Shehan Lakshitha </a><br>
+💠 👀 I’m interested in web develoment and AI<br>
+💠 👀 I'm also interesting in andriod app development<br>
+💠 🌱 I’m currently reading my BSc(Hons) in Information Systems at <a href="https://www.sab.ac.lk">Sabaragamuwa University of Sri Lanka</a><br>
+💠 💞️ I’m looking to collaborate on any android app development projects,web develoment projects and other interesting projects<br>
+💠 📫 You can reach me through my e-mail shehanlaksh@gmail.com<br>
 💠 💻 Vist my personal website https://shehan-lakshitha.github.io/Shehan-lakshitha/
 
 <h3 align="left">Connect with me:</h3>
