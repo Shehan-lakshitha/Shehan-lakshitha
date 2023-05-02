@@ -77,6 +77,7 @@ header.shadow {
   font-size: 1.61rem;
   font-weight: 600;
   color: var(--text-color);
+  animation: slideRight 2s ease forwards;
 }
 
 .logo span {
@@ -419,6 +420,24 @@ form textarea {
 .copyright a {
   color: #22cf91;
 }
+
+/* logo animation */
+@keyframes slideRight{
+  0%{
+    transform: translate(-100px);
+    opacity: 0;
+  }
+  100%{
+    transform: translate(0px);
+    opacity: 1;
+  }
+}
+
+
+
+
+
+
 
 /* For Mobile */
 @media (max-width: 991px) {
