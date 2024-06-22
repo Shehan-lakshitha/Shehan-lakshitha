@@ -17,10 +17,9 @@
   --text-color: #0f0c27;
   --hover: hsl(260, 100%, 51%);
   --big-font: 3.2rem;
-  --medium-font: 1.8rem;
+  --medium-font: 2.4rem;
   --p-font: 0.941rem;
 }
-
 section {
   padding: 50px 10%;
 }
@@ -124,6 +123,7 @@ header.shadow {
   gap: 1rem;
 }
 
+
 .home-img {
   order: 3;
 }
@@ -158,8 +158,8 @@ header.shadow {
 }
 
 .social a {
-  margin-bottom: 1rem;
-  font-size: 22px;
+  margin-bottom: 0.5rem;
+  font-size: 38px;
   color: var(--text-color);
 }
 
