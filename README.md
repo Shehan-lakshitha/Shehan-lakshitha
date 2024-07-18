@@ -15,7 +15,7 @@
 💠 🌱 I’m currently reading my BSc(Hons) in Information Systems at <a href="https://www.sab.ac.lk">Sabaragamuwa University of Sri Lanka</a><br>
 💠 💞️ I’m looking to collaborate on any android app development projects,web develoment projects and other interesting projects<br>
 💠 📫 You can reach me through my e-mail shehanlaksh@gmail.com<br>
-💠 💻 Vist my personal website https://shehan-lakshitha.github.io/Shehan-lakshitha/
+💠 💻 Vist my portfolio https://shehanlakshitha.netlify.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
